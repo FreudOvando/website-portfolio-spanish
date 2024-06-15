@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'merriweather';
+    src: url(./fonts/MerriweatherSans-VariableFont_wght.ttf);
+}
+
+@keyframes rotate-border {
+    0% {
+      border-width: 2px;
+      border-color: red;
+    }
+    25% {
+      border-width: 2px;
+      border-color: orange;
+    }
+    50% {
+      border-width: 2px;
+      border-color: yellow;
+    }
+    75% {
+      border-width: 2px;
+      border-color: green;
+    }
+    100% {
+      border-width: 2px;
+      border-color: blue;
+    }
+  }
+  
+  .rotate-border {
+    animation: rotate-border 1s linear infinite;
+    border-style: solid;
+  }
+  
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+  
+  @keyframes blink {
+    50% { border-color: transparent; }
+  }
+  
+ 
