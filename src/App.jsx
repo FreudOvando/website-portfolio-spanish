@@ -9,7 +9,7 @@ function App() {
   
 
   return (
-  <div className='flex items-center justify-center flex-col min-w-[375px] w-auto '>
+  <div className='flex items-center justify-center flex-col min-w-[375px]'>
   <Header />
   <Main />
   <Proyects />
