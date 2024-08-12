@@ -25,7 +25,7 @@ const Main = () => {
             <section className='my-2'>
                 <h3 className='text-2xl font-merriweather text-slate-500 '>{displayedText}</h3>
                 <p className='w-[25rem] h-[10rem] mt-6 text-lg text-center text-wrap max-sm:w-[20rem] inline-block'>
-                I am a quick learner and a dedicated, hardworking, I have independently designed and developed several web applications using React, Tailwind CSS, and TypeScript. My communication skills, ability to work under pressure, and being an excellent team player make me well-suited for collaborative environments.
+                Soy una persona autodidacta, trabajadora, disciplinada, con grandes habilidades para resolver problemas de manera creativa. Aunque no tengo experiencia laboral formal, he diseñado varias aplicaciones web utilizando html, css, javascript vanilla, React js, Tailwind CSS y TypeScript para practicar y mantener un sólido conocimiento fundamental. Mi pasión por el desarrollo web y mi dedicación continua me permiten enfrentar y superar cualquier desafío que se me presente 
                 </p>
             </section>
 
@@ -33,7 +33,7 @@ const Main = () => {
                 <button
                     className=" cursor-pointer dark:bg-slate-200 dark:text-slate-900 font-bold flex justify-between bg-gray-800 px-3 py-2 rounded-full text-white tracking-wider shadow-xl hover:bg-gray-900 hover:scale-105 duration-500 hover:ring-1 font-mono w-[170px] h-[40px]"
                 >
-        <a href="https://drive.google.com/file/d/1uyAqajSItbYqp1FnY1bqWq_Hh38OYJ49/view?usp=drive_link" target='_blank'>Resume</a>
+        <a href="https://drive.google.com/file/d/1GUA5ZKEpJD6UbouByezWWBFPdFLNRCgB/view?usp=sharing" target='_blank'>Mi CV</a>
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         fill="none"

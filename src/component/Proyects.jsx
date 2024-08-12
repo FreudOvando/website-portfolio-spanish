@@ -11,31 +11,31 @@ const Proyects = () => {
       
         <article className='min-w-[375px] w-auto h-[20rem] dark:shadow-zinc-600 shadow-sm shadow-slate-900 rounded-xl flex items-center flex-col gap-4 '>
             <img className='w-[8rem] h-[8rem] rounded-3xl p-2 ' src={memory} alt="Memory Play" /> 
-            <h3 className='text-center text-xl'> Funny Memory Play</h3>
-            <p className='text-center text-md w-[20rem] '>Small Memory play created with React | Tailwind CSS | TypeScript.</p>
-            <p>Visit App<span className='bold'><a target='_blank' href="https://memory-play-freud.netlify.app/"> here</a></span></p>
+            <h3 className='text-center text-xl'>Juego de memoria</h3>
+            <p className='text-center text-md w-[20rem] '>Pequeño juego de memoria creado con React | Tailwind CSS | TypeScript.</p>
+            <p>Visita la App<span className='bold'><a target='_blank' href="https://memory-play-freud.netlify.app/"> aqui</a></span></p>
         </article>
 
         <article className='dark:shadow-zinc-600 w-auto h-[20rem] shadow-sm shadow-slate-900 rounded-xl flex items-center flex-col gap-4 '>
             <img className='w-[8rem] h-[8rem] rounded-3xl p-2 ' src={clima} alt="Weather App" /> 
-            <h3 className='text-center text-xl'>Weather App</h3>
-            <p className='text-center text-md w-[20rem]'>Know your weather by location created with React js | Javascript | tailwind CSS</p>
-            <p>Visit App<span className='bold'><a target='_blank' href="https://weather-app-freud.netlify.app/"> here</a></span></p>
+            <h3 className='text-center text-xl'>Aplicación del clima</h3>
+            <p className='text-center text-md w-[20rem]'>Conoce el clima en tu localidad creado con React js | Javascript | tailwind CSS</p>
+            <p>Visita la App<span className='bold'><a target='_blank' href="https://weather-app-freud.netlify.app/"> aqui</a></span></p>
         </article>
 
         <article className=' dark:shadow-zinc-600 w-auto h-[20rem] shadow-sm shadow-slate-900 rounded-xl flex items-center flex-col gap-4 '>
             <img className='w-[8rem] h-[8rem] rounded-3xl p-2 ' src={rick} alt="Funny rick and morty app" /> 
             <h3 className='text-center text-xl'>Rick and Morty App</h3>
-            <p className='text-center text-md w-[20rem]'>Funny App for find Rick and Morty Characters by location React js | Javascript | tailwind CSS</p>
-            <p>Visit App<span className='bold'><a target='_blank' href="https://rickandmortyapplocationfreud.netlify.app/"> here</a></span></p>
+            <p className='text-center text-md w-[20rem]'>Encuentra los personajes de la serie rick and morty y conoce su estatus creado con React js | Javascript | tailwind CSS</p>
+            <p>Visita la App<span className='bold'><a target='_blank' href="https://rickandmortyapplocationfreud.netlify.app/"> aqui</a></span></p>
         </article>
 
         <article className='dark:shadow-zinc-600 w-auto h-[20rem] shadow-sm shadow-slate-900 rounded-xl flex items-center flex-col gap-4 '>
         
             <img className='w-[8rem] h-[8rem] rounded-3xl p-2 ' src={list} alt="Weather App" /> 
             <h3 className='text-center text-xl'>List to do</h3>
-            <p className='text-center text-md w-[20rem]'>List to do for make task React js | TypeScript | tailwind CSS</p>
-            <p>Visit App<span className='bold'><a target='_blank' href="https://todo-list-freud.netlify.app/"> here</a></span></p>
+            <p className='text-center text-md w-[20rem]'>Lista de tareas creado con React js | TypeScript | tailwind CSS</p>
+            <p>Visita la App<span className='bold'><a target='_blank' href="https://todo-list-freud.netlify.app/"> aqui</a></span></p>
         
         </article>
 
